@@ -1,7 +1,6 @@
-# gcr
+# Google gcr.io container mirrors
 
-Google gcr.io container mirrors https://hub.docker.com/r/jungleran/gcr
-
+https://hub.docker.com/r/jungleran/gcr
 
 ## Mapping rules:
 
