@@ -22,3 +22,8 @@ Mirror:
 ```
 docker pull jungleran/gcr:echoserver-1.4
 ```
+
+## References
+
+- `--image-pull-policy=IfNotPresent` https://github.com/kubernetes/kubernetes/issues/24903#issuecomment-274319080
+- Added a `--registry-mirror` flag to minikube start https://github.com/kubernetes/minikube/blob/master/CHANGELOG.md#version-080---8172016
